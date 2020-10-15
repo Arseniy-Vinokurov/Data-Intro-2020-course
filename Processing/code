@@ -16,3 +16,4 @@ rect(mouseX-120, mouseY+50, 240, 10);
 
 ellipse(mouseX-55, mouseY-65, 70, 70);
 ellipse(mouseX+55, mouseY-65, 70, 70);
+}
